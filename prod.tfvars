@@ -1,0 +1,13 @@
+aws_region="eu-central-1"
+availability_zone_public1="eu-central-1a"
+availability_zone_public2="eu-central-1b"
+availability_zone_private1="eu-central-1c"
+availability_zone_private2="eu-central-1d"
+
+vpc_cidr= "10.0.0.0/16"
+subnet_cidr_public1="172.0.1.0/24"
+subnet_cidr_public2="172.0.2.0/24"
+subnet_cidr_private1="172.0.3.0/24"
+subnet_cidr_private2="172.0.4.0/24"
+routeTable_cidr_public="0.0.0.0/0"
+routeTable_cidr_private="0.0.0.0/0"
